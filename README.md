@@ -24,17 +24,17 @@ In this repository, you will find the following material related to this experim
 
 ## Survey forms
 
-* [Survey form ABC](Survey ABC.pdf): Survey variation ABC, in which the modularization strategies A, B, and C corresponded to:
+* [survey-form-abc.pdf](/survey-form-abc.pdf): Survey form in which the modularization strategies A, B, and C corresponded to:
   * A: [Relator-centric modularization approach](https://doi.org/10.1007/978-3-030-63479-7_15)
   * B: [Castano et al.’s modularization approach](https://doi.org/10.1145/293910.293150)
   * C: [Akoka and Comyn-Wattiau’s modularization approach](https://doi.org/10.1016/S0169-023X(96)00007-9)
 
-* [Survey form IJK](Survey IJK.pdf): Survey variation IJK, in which the modularization strategies I, J, and K corresponded to:
+* [survey-form-ijk.pdf](/survey-form-ijk.pdf): Survey from in which the modularization strategies I, J, and K corresponded to:
   * I: [Castano et al.’s modularization approach](https://doi.org/10.1145/293910.293150)
   * J: [Akoka and Comyn-Wattiau’s modularization approach](https://doi.org/10.1016/S0169-023X(96)00007-9)
   * K: [Relator-centric modularization approach](https://doi.org/10.1007/978-3-030-63479-7_15)
 
-* [Survey form XYZ](Survey XYZ.pdf): Survey variation XYZ, in which the modularization strategies X, Y, and Z corresponded to:
+* [survey-form-xyz.pdf](/survey-form-xyz.pdf): Survey form in which the modularization strategies X, Y, and Z corresponded to:
   * X: [Akoka and Comyn-Wattiau’s modularization approach](https://doi.org/10.1016/S0169-023X(96)00007-9)
   * Y: [Relator-centric modularization approach](https://doi.org/10.1007/978-3-030-63479-7_15)
   * Z: [Castano et al.’s modularization approach](https://doi.org/10.1145/293910.293150)
