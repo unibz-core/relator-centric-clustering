@@ -15,10 +15,51 @@ PS: This dataset is completely anonymied, as we did not collect any information 
 
 ## Dataset
 
-The columns in ([answers.csv](/answers.csv)) have the following meaning:
+The columns in [answers.csv](/answers.csv) are interpreted as follows:
 
 * **Subject**: A number that identifies the subject who answered the survey
-* **Survey**: A code that identifies which of the 3 variants of the survey the subject answered. Possible values are `ABC`, `IJK`, and `XYZ`.
+* **Survey**: A string that identifies which of the 3 variants of the survey the subject answered. Possible values are:
+  * `ABC`, 
+  * `IJK`, and 
+  * `XYZ`.
+* **Experience in conceptual modeling**: A string that identifies how much experience the subject declared to have in conceptual modeling. Possible values:
+  * `0 to 4 years`,
+  * `4 to 8 years`, and
+  * `More than 8 years`
+* **Knowledge of conceptual modeling languages**: A string containing a list of conceptual modeling languages the subject declared to have knowledge of. May contain, but is not limited to, the following values:
+  * `Unified Modeling Language (UML)`
+  * `OntoUML`
+  * `(Extended) Entity Relationship (ER)`
+  * `Object-Role Modeling (ORM)`
+  * `SysML`
+* **Expertise**: A string indentifying how much of an expert in conceptual modeling the subject considered herself/himself to be. Possible values:
+  * `Novice`
+  * `Intermediate`
+  * `Expert`
+* **Current position**: A string identifying the current professional position held by the subject. May contain, but is not limited to, one of the following values:
+  * `BSc-level student`
+  * `MSc-level student`
+  * `PhD-level student`
+  * `Post-doctoral researcher`
+  * `Professor`
+  * `Business analyst / architect`
+  * `System analyst / expert`
+  * `Software engineer`
+  * `Other IT staff position`
+  * `Other business function`
+  * `Middle or senior level manager`
+* **Relator-centric (Rank)**: A number identifying the how the subject ranked the [Relator-centric modularization approach](https://doi.org/10.1007/978-3-030-63479-7_15). Possible values:
+  * `1 (best)`
+  * `2`
+  * `3 (worst)`
+* **Relator-centric (Rank)**: A number identifying the how the subject ranked [Akoka and Comyn-Wattiau’s modularization approach](https://doi.org/10.1016/S0169-023X(96)00007-9). Possible values:
+  * `1 (best)`
+  * `2`
+  * `3 (worst)`
+* **Castano (Rank)**: A number identifying the how the subject ranked [Castano et al.’s modularization approach](https://doi.org/10.1145/293910.293150). Possible values:
+  * `1 (best)`
+  * `2`
+  * `3 (worst)`
 
 ## Authors
 
